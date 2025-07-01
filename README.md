@@ -26,7 +26,7 @@ Tables: rooms, bookings
 
 
 ## 📁 Project Structure
-room-booking-system/
+```room-booking-system/
 │
 ├── index.php                # Dashboard with stats
 ├── booking.php              # Add booking form
@@ -35,6 +35,7 @@ room-booking-system/
 ├── db_connect.php           # Database connection
 ├── style.css                # Custom styling
 └── room_booking_db.sql      # Database file
+```
 
 ## 🧑‍💻 How to Run
 
