@@ -1,4 +1,4 @@
-🏨 Room Booking Management System
+🏨 Room Booking Management Syste
 
 A simple and responsive *Room Booking Management System* built using *PHP, **MySQL, **HTML, **CSS (Bootstrap)*. It mimics a Laravel-style UI and provides a clean admin dashboard to manage room bookings.
 
